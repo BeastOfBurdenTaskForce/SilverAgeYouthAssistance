@@ -36,7 +36,7 @@ export default function HotlineModal({ isOpen, onClose, onCopied }: HotlineModal
           <h3 className="font-serif font-bold text-xl text-brown-800 mb-2">统一服务热线</h3>
           <p className="text-brown-400 text-sm mb-5">老人无需使用智能手机，拨打下方电话即可获得人工协助</p>
           <div className="bg-accent-50 border border-accent/15 rounded-2xl p-5 mb-5">
-            <div className="text-3xl font-bold text-accent tracking-wider font-serif">400-123-4567</div>
+            <div className="text-3xl font-bold text-accent tracking-wider font-serif">110</div>
             <div className="text-xs text-accent/60 mt-2">服务时间：每天 8:00 - 20:00</div>
           </div>
           <div className="flex gap-3">
